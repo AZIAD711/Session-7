@@ -1,0 +1,13 @@
+body{
+    background-color: aqua ;
+}
+h2{
+    text-align: center;
+    color: rgb(162, 85, 49);
+}
+video{
+    margin: 100px 600px;
+    width:500px; 
+    height: 250px;
+}
+
